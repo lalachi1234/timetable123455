@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimeTable</string>
+
+
+    <string name="changeLang">Fluid Algorithms est une application de calendrier avec de nombreuses fonctionnalités
+il a des onglets comme des événements où vous pouvez définir des événements comme une fête danniversaire ou un mariage.
+Contacts, vous pouvez ajouter tous les détails de vos amis et votre famille et une barre des tâches où vous pouvez mettre les choses que vous devez faire.
+il y a un tas de liens</string>
+    <string name="hello">Bonjour</string>
+
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+
+    <string name="exams">Événements</string>
+    <string name="add_exam">ajouter des événements</string>
+
+    <string name="about_us">À propos de nous</string>
+    <string name="events">Événements</string>
+    <string name="contact">Contact</string>
+    <string name="links">Liens</string>
+    <string name="homeworks">Tâche</string>
+    <string name="type_of_event">Type dévénement</string>
+    <string name="location">Emplacement</string>
+
+    <string name="saved">Enregistrée</string>
+
+    <!-- Teachers Activity strings -->
+    <string name="teachers">Contacts</string>
+    <string name="add_teacher">Ajouter le contact</string>
+    <string name="edit_teacher">Modifier le contact</string>
+    <string name="name_dialog">Nom:</string>
+    <string name="post_dialog">Publier:</string>
+    <string name="phonenumber_dialog">Téléphone:</string>
+    <string name="email_dialog">Email:</string>
+    <string name="name">Nom</string>
+    <string name="phone_number">Numéro de téléphone</string>
+    <string name="post">Publier</string>
+    <string name="email">Email</string>
+
+    <string name="notes">Remarques</string>
+    <string name="add_note">Ajouter une note</string>
+    <string name="edit_note">Note éditée</string>
+
+    <string name="select_date">Sélectionner une date</string>
+    <string name="deadline_dialog">Date limite:</string>
+    <string name="deadline">Date limite</string>
+    <string name="description_dialog">La description:</string>
+    <string name="desctiption">La description</string>
+    <string name="date_error">Le champ de date ne peut pas être vide!</string>
+    <string name="edit_homework">Modifier la tâche</string>
+    <string name="add_homework">Ajouter une tâche</string>
+    <string name="date">Date</string>
+
+    <string name="teacher">Contact</string>
+    <string name="room">Chambre</string>
+    <string name="time">Temps</string>
+    <string name="save">sauver</string>
+    <string name="cancel">Annuler</string>
+    <string name="time_to_dialog">À:</string>
+    <string name="time_from_dialog">De:</string>
+    <string name="subject_dialog">Matière:</string>
+    <string name="teacher_dialog">Professeure:</string>
+    <string name="room_dialog">Chambre:</string>
+    <string name="select_time">Sélectionnez lheure</string>
+    <string name="select_color">Choisissez la couleur</string>
+    <string name="choose_time">Choisissez lheure</string>
+    <string name="choose_date">Choisissez la date</string>
+    <string name="choose_color">Choisir la couleur</string>
+
+    <string name="week">La semaine</string>
+    <string name="delete">Supprimer</string>
+    <string name="edit">Éditer</string>
+    <string name="appointment">Rendez-vous</string>
+    <string name="address">Adresse</string>
+    <string name="action_settings" >Réglages</string>
+    <string name="school_website" >Site Web de lécole</string>
+
+
+
+</resources>
